@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Verified compatibility with latest runtime version
 - Added CONTRIBUTING.md stub
+
+## 2026-03-30
+- Added type hints to helper functions
